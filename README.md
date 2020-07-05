@@ -1,8 +1,7 @@
 ![PROJECT_PHOTO](https://github.com/AlexGyver/LEDmask/blob/master/scheme.jpg)
 
 # Медицинская маска со светодиодами и Arduino
-* [Описание проекта](#chapter-0)
-<!--* [Материалы и компоненты](#chapter-1)-->
+* [Описание проекта](#chapter-0)<!--* [Материалы и компоненты](#chapter-1)-->
 * [Как скачать и прошить](#chapter-2)
 * [FAQ](#chapter-3)
 * [Полезная информация](#chapter-4)
