@@ -2,7 +2,7 @@
 #define FREQ_PIN 1
 #define VOL_THR 20
 #define VOL_MAX 200
-#define BRIGHTNESS 150
+#define BRIGHTNESS 150 // яркость матрицы (0 - 255)
 #define EMOJI_THR 700
 
 #define M_PIN 3       // пин ленты
@@ -42,7 +42,7 @@ const uint8_t smile[] = {0x00, 0x00, 0x81, 0xC3, 0x7E, 0x00, 0x00, 0x00};
 
 void setup() {
   Serial.begin(9600);
-  matrix.setBrightness(BRIGHTNESS);  // яркость (0-255)
+  matrix.setBrightness(BRIGHTNESS);
 }
 
 void loop() {
